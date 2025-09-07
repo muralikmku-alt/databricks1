@@ -1,0 +1,2 @@
+Op,order_number,customer_id,product_id,order_date,units,sale_price,currency,order_mode,updated_at
+U,2501,568,3,04/05/2020,10,58.07,USD,EDIT,2024-01-27 18:29:26

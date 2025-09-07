@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Donna Rodriquez",
+        "address": {
+		    "address_line": "382-3723 Curae St.", 
+            "city": "New York",
+            "state": "NY"
+        },
+        "phone_numbers": [
+            {"type": "home", "number": "1-323-678-7587"},
+            {"type": "work", "number": "1-435-764-0987"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Trevor Dorsey",
+        "address": {
+		    "address_line": "25-4079 Aliquam St.", 
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "phone_numbers": [
+            {"type": "mobile", "number": "1-859-633-7357"},
+            {"type": "work", "number": "(721) 757-7917"}
+        ]
+    }
+]
